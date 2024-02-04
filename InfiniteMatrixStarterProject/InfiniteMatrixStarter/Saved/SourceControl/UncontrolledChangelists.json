@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Healbar.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_ScoreBoard.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Yellow_Red_Nectarine_tersdibra/S_Yellow_Red_Nectarine_tersdibra_lod3.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Starfish_ue3lfejhw/S_Starfish_ue3lfejhw_lod3_Var1.uasset",
+				"D:/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset"
+			]
+		}
+	]
+}
