@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/UI/WBP_Healbar.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/UI/WBP_ScoreBoard.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Pursuer_AIController.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Pursuer.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/EAIState.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Mortar.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/BP_MortarProjectile.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/UI/WBP_Restart.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/UI/T_Restart.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/BP_TurrestProjectile.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Turret.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"D:/CS 415/CS-415/LevelDesign/Content/LearningKit_Games/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
